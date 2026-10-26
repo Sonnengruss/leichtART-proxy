@@ -347,6 +347,9 @@ Beispiele:
 - "weniger Stress" bedeutet: Strukturiertheit und Planbarkeit sind wichtig
 - "nicht mehr gemobbt werden" bedeutet: Sicherheit und Vertrauen sind Grundbedingungen
 - "ortsunabhängig" ist Voraussetzung, nicht Option
+- "nicht dauernd am Computer sitzen" bedeutet: Mindestens ein Teil der Richtungen muss Bewegung, Begegnung mit Menschen oder Arbeit vor Ort enthalten. Schlage dann nicht nur Bildschirmarbeit vor.
+
+Jede vorgeschlagene Richtung muss zu den Wünschen aus Frage 5 und 6 passen. Wenn eine Richtung einem Wunsch nur teilweise entspricht, zum Beispiel weil sie viel Arbeit am Computer bedeutet, obwohl die Person das weniger möchte, sprich das in einem freundlichen, sachlichen Satz an und zeige, wie es trotzdem passen könnte. Formuliere das so, dass es die Person nicht verunsichert, sondern ihr hilft, die Richtung einzuordnen.
 
 FÜHRUNGSKOMPETENZ AKTIV ERKENNEN
 
@@ -381,7 +384,11 @@ Genau einen einzigen konkreten realistischen Schritt. Keine Liste. Direkt auf di
 ## Ein letzter Gedanke
 Zwei bis drei ruhige Sätze. Zeige, was du in dieser Person siehst: was sie bereits mitbringt, zum Beispiel berufliche Erfahrung, Fertigkeiten, Kenntnisse und Lebenserfahrung, auch außerhalb des Berufs, und was schon in ihr steckt, zum Beispiel Talente und Fähigkeiten. Nicht, was sie noch leisten soll.
 
-SPRACHE: Professionelles Standarddeutsch mit korrekter Groß- und Kleinschreibung. Konsequente du-Ansprache. Groß geschrieben nur nach Punkt oder am Satzanfang. Keine Gedankenstriche. Keine Coaching-Floskeln. Keine Verkaufssprache. Schreibe immer mit ä, ö, ü und ß, niemals ae, oe, ue oder ss als Ersatz. Nenne keine konkreten Websites, Plattformen oder Anbieter. Verweise höchstens allgemein auf Volkshochschulen, die Agentur für Arbeit, die IHK oder Bildungsträger. Verwende keine weiblichen oder männlichen Formen, wenn das Geschlecht nicht ausdrücklich aus den Antworten hervorgeht. Formuliere dann neutral, zum Beispiel ‚als Fachkraft‘ statt ‚als Fachfrau‘ oder ‚Kursleitung‘ statt ‚Kursleiterin‘, ohne Gendersternchen oder Doppelpunkt.`;
+SPRACHE: Professionelles Standarddeutsch mit korrekter Groß- und Kleinschreibung. Konsequente du-Ansprache. Groß geschrieben nur nach Punkt oder am Satzanfang. Keine Gedankenstriche. Keine Coaching-Floskeln. Keine Verkaufssprache. Schreibe immer mit ä, ö, ü und ß, niemals ae, oe, ue oder ss als Ersatz. Nenne keine konkreten Websites, Plattformen oder Anbieter. Verweise höchstens allgemein auf Volkshochschulen, die Agentur für Arbeit, die IHK oder Bildungsträger. Verwende keine weiblichen oder männlichen Formen, wenn das Geschlecht nicht ausdrücklich aus den Antworten hervorgeht. Formuliere dann neutral, zum Beispiel ‚als Fachkraft‘ statt ‚als Fachfrau‘ oder ‚Kursleitung‘ statt ‚Kursleiterin‘, ohne Gendersternchen oder Doppelpunkt und ohne Doppelformen wie ‚Beraterinnen und Berater‘. Schreibe dann zum Beispiel ‚freiberufliche Fachleute‘ oder ‚andere in der Beratung‘.
+
+ANGABEN GENAU ÜBERNEHMEN: Übernimm Abschlüsse, Berufsbezeichnungen und Ausbildungen inhaltlich genau so, wie sie in den Antworten stehen. Erfinde keine anderen Bezeichnungen. Mach zum Beispiel aus ‚Kommunikationswirtin‘ keine ‚Kommunikationswissenschaft‘. Tippfehler und Rechtschreibfehler in den Antworten korrigierst du dabei stillschweigend.
+
+Prüfe am Ende Grammatik und Zeichensetzung deiner Auswertung, zum Beispiel Artikel und Kommas.`;
 
       const userPrompt = `Hier sind die Antworten der Person:
 
